@@ -1,14 +1,14 @@
-紫书《算法竞赛入门经典》题目一览 
+z紫书《算法竞赛入门经典》题目一览
 https://vjudge.net/article/524
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
-第3章 数组和字符串（例题）
+z第3章 数组和字符串（例题）
 1. UVA 272 TEX Quotes
 2. UVA 10082 WERTYU
 3. UVA 401 Palindromes
 4. UVA 340 Master-Mind Hints
 5. UVA 1583 Digit Generator
 6. UVA 1584 Circular Sequence
-第3章 数组和字符串（习题）
+z第3章 数组和字符串（习题）
 1. UVA 1585 Score
 2. UVA 1586 Molar mass
 3. UVA 1225 Digit Counting
@@ -21,14 +21,14 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 10. UVA 1587 Box
 11. UVA 1588 Kickdown
 12. *UVA 11809 Floating-Point Numbers
-第4章 函数和递归（例题）___________________________________________
+z第4章 函数和递归（例题）
 1. UVA 1339 Ancient Cipher
 2. UVA 489 Hangman Judge
 3. UVA 133 The Dole Queue
 4. UVA 213 Message Decoding
 5. UVA 512 Spreadsheet Tracking
 6. UVA 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
-第4章 函数和递归（习题）
+z第4章 函数和递归（习题）
 1. UVA 1589 Xiangqi
 2. UVA 201 Squares
 3. UVA 220 Othello
@@ -39,7 +39,7 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 8. UVA 12108 Extraordinarily Tired Students
 9. UVA 1591 Data Mining
 10. UVA 815 Flooded!
-第5章 STL入门（例题）
+z第5章 STL入门（例题）
 1. UVA 10474 Where is the Marble?
 2. UVA 101 The Blocks Problem
 3. UVA 10815 Andy\u0027s First Dictionary
@@ -51,7 +51,7 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 9. UVA 1592 Database
 10. UVA 814 The Letter Carrier\u0027s Rounds
 11. UVA 221 Urban Elevations
-第5章 STL入门（习题）
+z第5章 STL入门（习题）
 1. UVA 1593 Alignment of Code
 2. UVA 1594 Ducci Sequence
 3. UVA 10935 Throwing cards away I
