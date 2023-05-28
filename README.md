@@ -1,7 +1,6 @@
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
-1. UVA 213 Message Decoding
-2. UVA 512 Spreadsheet Tracking
-3. UVA 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
+1. UVA 512 Spreadsheet Tracking
+2. UVA 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
 1. UVA 1589 Xiangqi
 2. UVA 201 Squares
 3. UVA 220 Othello
@@ -29,3 +28,4 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 4. UVA 10763 Foreign Exchange
 5. UVA 10391 Compound Words
 6. UVA 1595 Symmetry
+7. UVA 12100 Printer Queue
