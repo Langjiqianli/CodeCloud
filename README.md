@@ -27,4 +27,5 @@ https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 2. UVA 1594 Ducci Sequence
 3. UVA 10935 Throwing cards away I
 4. UVA 10763 Foreign Exchange
-6. UVA 10391 Compound Words
+5. UVA 10391 Compound Words
+6. UVA 1595 Symmetry
