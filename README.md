@@ -1,4 +1,6 @@
 紫书《算法竞赛入门经典》题目一览 
+https://vjudge.net/article/524
+https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 第3章 数组和字符串（例题）
 1. UVA 272 TEX Quotes
 2. UVA 10082 WERTYU
