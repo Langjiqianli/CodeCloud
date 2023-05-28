@@ -1,8 +1,7 @@
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
-1. UVA 133 The Dole Queue
-2. UVA 213 Message Decoding
-3. UVA 512 Spreadsheet Tracking
-4. UVA 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
+1. UVA 213 Message Decoding
+2. UVA 512 Spreadsheet Tracking
+3. UVA 12412 A Typical Homework (a.k.a Shi Xiong Bang Bang Mang)
 1. UVA 1589 Xiangqi
 2. UVA 201 Squares
 3. UVA 220 Othello
