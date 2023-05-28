@@ -1,4 +1,3 @@
-https://vjudge.net/article/524
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
 1. UVA 489 Hangman Judge
 2. UVA 133 The Dole Queue
