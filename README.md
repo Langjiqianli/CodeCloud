@@ -1,2 +1,2 @@
 https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=827
-47_3
+48_2
