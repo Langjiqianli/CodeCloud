@@ -6,7 +6,6 @@ const int maxn=128+5;
 char s[maxn];
 stack<int> z;
 int main(){
-    freopen("output.txt", "w", stdout);
     int lun;
     scanf("%d",&lun);
     getchar();
