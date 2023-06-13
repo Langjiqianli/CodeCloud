@@ -4,7 +4,6 @@ const int maxn =100000+5;
 int last,cur,next[maxn];
 char s[maxn];
 int main(){
-    freopen("output.txt", "w", stdout);
     while(scanf("%s",s+1)==1){
         int n=strlen(s+1);
         last=cur=0;
