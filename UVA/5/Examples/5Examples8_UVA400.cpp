@@ -8,7 +8,6 @@ void print(const string&a,int len){
     for(int i=0;i<len-a.length();i++)cout<<' ';
 }
 int main(){
-    freopen("output.txt", "w", stdout);
     int n;
     while(cin>>n){
         int M=0;
@@ -28,6 +27,6 @@ int main(){
             cout<<endl;
         }
     }
-    //system("pause");
+    system("pause");
     return 0;
 }
