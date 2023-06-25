@@ -1,7 +1,6 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
-int n;
 long long czd(int mn,int end,long long s){
     if(end==0)return 0;
     if(end==1 and mn==2)return s/3*2;
@@ -17,6 +16,7 @@ int main(){
     int T;
     scanf("%d",&T);
     for(int ti=1;ti<=T;ti++){
+        int n;
         printf("Case %d: ",ti);
         int st,end;
         scanf("%d%d%d",&n,&st,&end);
